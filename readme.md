@@ -7,5 +7,3 @@ I've provided a minimal app with Client-Side-Routing to test this server -- **./
 ```
 deno run -A server.ts
 ```
-## Try it on Deploy:
-https://mini-csr-spa.deno.dev/
